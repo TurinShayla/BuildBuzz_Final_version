@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PushNotificationActivity"
+    android:orientation="vertical"
+    android:background="@drawable/polson"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:text="Wednesday">
+
+    </TextView>
+    <TextClock
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="50dp"
+        android:id="@+id/clock">
+
+    </TextClock>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:text="December 07,2022">
+
+    </TextView>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    >
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_marginStart="20dp"
+        android:padding="20dp"
+
+        android:id="@+id/btn_notification"
+
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:src="@drawable/ic_btn_home"
+        android:gravity="left|center_vertical"
+        android:text="BuildBuzz\n\nConstruction site ahead!"
+
+        android:textAllCaps="false"
+        >
+    </androidx.appcompat.widget.AppCompatButton>
+
+    <ImageView
+        android:layout_marginStart="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/btn_downarrow">
+
+    </ImageView>
+</LinearLayout>
+
+
+
+</LinearLayout>
