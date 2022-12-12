@@ -3,7 +3,7 @@ Building a Constructive Community
 
 
 # Features of this app
-# BuildBuzz
+
 Staying informed about the nearest construction site
 
 Task 1: A notification appeared if there is a construction site nearby
@@ -14,11 +14,15 @@ Task 2: User is able to read information about a specific construction
 
 Task 3: User is able to add new construction site and notify BuildBuzz authority about new construction
 
-#Video link how to use the app
+# Important video links: 
+# Video link how to use the app
+
 https://www.youtube.com/watch?v=PwYuYB-4q8g&ab_channel=ShaylaSharmin
 
 #Figma Prototype video:
+
 https://youtube.com/shorts/1QjBO7xuAYk?feature=share
+
 #Figma Prototype Link:
 
 Interactive Design: Prototype Link of mid-fi prototype on Figma:
