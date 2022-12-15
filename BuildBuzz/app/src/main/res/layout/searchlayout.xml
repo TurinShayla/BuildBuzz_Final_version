@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="10dp"
-            android:textSize="40sp"
+            android:textSize="36sp"
             android:layout_marginTop="40dp"
             android:layout_gravity="center"
             android:textStyle="bold"
@@ -41,17 +41,16 @@
         android:layout_marginStart="10dp"
 
         >
+
         <ImageButton
             android:id="@+id/btn_search"
 
-            android:padding="0dp"
             android:layout_width="wrap_content"
             android:layout_height="40dp"
-            android:background="@color/white"
-            android:src="@drawable/ic_btn_search"
             android:layout_gravity="bottom"
-            >
-        </ImageButton>
+            android:background="@color/submit_btn_color"
+            android:padding="0dp"
+            android:src="@drawable/ic_btn_search"></ImageButton>
 
         <EditText
             android:id="@+id/Input_Photo"

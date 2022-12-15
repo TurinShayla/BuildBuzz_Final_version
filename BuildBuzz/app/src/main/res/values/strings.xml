@@ -5,4 +5,5 @@
     <string name="Input_Photo"> Upload or Take New Photo</string>
     <string name="Input_time"> Tentative date</string>
     <string name="Search"> Search</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

@@ -59,7 +59,6 @@ ImageButton btn_add,btn_home,btn_save,btn_map,btn_setting;
                 Site model=siteList.get(position);
                 Intent intent3=new Intent(MainActivity.this,ShowAddActivity.class);
             //    Intent intent3=new Intent(getContext(),ShowAddActivity.class);
-
                 intent3.putExtra("siteID",currentSite);
                 intent3.putExtra(userkey,model.getUserKey());
                 //intent3.putExtra(userkey,currentSite.get);
@@ -116,16 +115,15 @@ ImageButton btn_add,btn_home,btn_save,btn_map,btn_setting;
             case R.id.btn_home:
                 Intent intent2=new Intent(MainActivity.this,MainActivity.class);
                 startActivity(intent2);
-            case R.id.btn_map:
-                Toast.makeText(this,"Under Construction",Toast.LENGTH_SHORT).show();
-
                 break;
-
+            case R.id.btn_map:
+                Intent intent4=new Intent(MainActivity.this,MapsActivity.class);
+                startActivity(intent4);
+                break;
             case R.id.btn_save:
                 Toast.makeText(this,"Under Construction",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.btn_setting:
-
                 Intent intent3=new Intent(MainActivity.this,PushNotificationActivity.class);
             startActivity(intent3);
         }
