@@ -33,19 +33,6 @@ https://youtu.be/p31fX1oO8xQ
 First, download the code from the github. Open the app in Android Studio. Build the app and then run the app. 
 To get the notification message you have to press the settings button to go to the notification layout. By pressing the message it will take you to the interface of nearest construction site on your path. Home button will take you to the homepage of the app. You can see the available construction on the homepage that have been fetched from firebase realtime database. To get detail information about any site, you need to click any of the site on the list of your interest. You can also add new site that is not included by BuildBuzz authority. You can add name of the site, location, tentative deadline, whether the road is closed or not, also what types of construction this is. Upoloading or taking photo is also included in this app. Basically, the idea is that buildbuzz authoirty will verify the newly added information and then approve. You can also explore the sites in your local area by clicking the map button.
 
-# Mid fi prototype link:
-
-#Figma Prototype video:
-
-https://youtube.com/shorts/1QjBO7xuAYk?feature=share
-
-#Figma Prototype Link:
-
-Interactive Design: Prototype Link of mid-fi prototype on Figma:
-https://www.figma.com/proto/St2So6XUhagJ1sGsKc9PvF/Figma1?node-id=52%3
-A232&scaling=scale-down&page-id=0%3A1&starting-point-node-id=52%3A232
-&show-proto-sidebar=1
-
 # Reference
 1. Firebase connection, store, and retrieve data:
 
@@ -58,3 +45,22 @@ https://www.youtube.com/watch?v=XRD-lVwlSjU
 3. Uploading photo from the gallery: 
 
 https://www.youtube.com/watch?v=bLi1qr6h4T4
+
+# Appendix
+
+
+# Mid fi prototype link:
+
+#Figma Prototype video:
+
+https://youtube.com/shorts/1QjBO7xuAYk?feature=share
+
+## Figma Prototype Link:
+
+Interactive Design: Prototype Link of mid-fi prototype on Figma:
+https://www.figma.com/proto/St2So6XUhagJ1sGsKc9PvF/Figma1?node-id=52%3
+A232&scaling=scale-down&page-id=0%3A1&starting-point-node-id=52%3A232
+&show-proto-sidebar=1
+
+## All reports, slides, and raw files drive link
+https://drive.google.com/drive/folders/1jTmUiluF8CodcAoF6GXzdV-B94z1XKZb?usp=sharing
