@@ -9,6 +9,7 @@ We mentioned the problem we were facing in our old repository on canvas. All of 
 
 # Final version of BuildBuzz youtube link:
 
+https://www.youtube.com/watch?v=77DFoka_Gqw
 
 
 # Features of this app
