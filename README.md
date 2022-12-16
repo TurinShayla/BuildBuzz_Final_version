@@ -1,6 +1,11 @@
 # BuildBuzz_Final_version
 Building a Constructive Community
 
+# Old repository link
+
+https://github.com/TurinShayla/BuildBuzzV-1
+
+We mentioned the problem we were facing in our old repository on canvas. All of our memebers commited on the previous link. 
 
 # Features of this app
 
