@@ -7,6 +7,10 @@ https://github.com/TurinShayla/BuildBuzzV-1
 
 We mentioned the problem we were facing in our old repository on canvas. All of our memebers commited on the previous link. 
 
+# Final version of BuildBuzz youtube link:
+
+
+
 # Features of this app
 
 Staying informed about the nearest construction site
@@ -47,9 +51,6 @@ https://www.youtube.com/watch?v=XRD-lVwlSjU
 https://www.youtube.com/watch?v=bLi1qr6h4T4
 
 # Appendix
-
-
-# Mid fi prototype link:
 
 ## Figma youtube video and prototype link link:
 
