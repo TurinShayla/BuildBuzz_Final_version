@@ -14,6 +14,11 @@ Task 2: User is able to read information about a specific construction
 
 Task 3: User is able to add new construction site and notify BuildBuzz authority about new construction
 
+Additional task: Exploring the local construction sites.
+
+
+We used firebase database as realtime database. Also, we used GPS and camera as sensors in this project.
+
 # Important video links: 
 # Video link how to use the app
 
@@ -31,4 +36,14 @@ A232&scaling=scale-down&page-id=0%3A1&starting-point-node-id=52%3A232
 &show-proto-sidebar=1
 
 # Reference
+1. Firebase connection, store, and retrieve data:
+
 https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-
+
+2. Taking photo using camera::
+
+https://www.youtube.com/watch?v=XRD-lVwlSjU
+
+3. Uploading photo from the gallery: 
+
+https://www.youtube.com/watch?v=bLi1qr6h4T4
