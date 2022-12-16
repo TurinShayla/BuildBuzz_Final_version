@@ -26,7 +26,7 @@ We used firebase database as realtime database. Also, we used GPS and camera as 
 
 # How to use the app: Youtube video link:
 
-https://www.youtube.com/watch?v=PwYuYB-4q8g&ab_channel=ShaylaSharmin
+https://www.youtube.com/watch?v=PwYuYB-4q8g&ab_channel=ShaylaSharmin](https://youtu.be/p31fX1oO8xQ)
 
 # How to run the code:
 
