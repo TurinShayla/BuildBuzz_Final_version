@@ -19,10 +19,14 @@ Additional task: Exploring the local construction sites.
 
 We used firebase database as realtime database. Also, we used GPS and camera as sensors in this project.
 
-# Important video links: 
-# Video link how to use the app
+# How to use the app: Youtube video link:
 
 https://www.youtube.com/watch?v=PwYuYB-4q8g&ab_channel=ShaylaSharmin
+
+# How to run the code:
+
+First, download the code from the github. Open the app in Android Studio. Build the app and then run the app. 
+To get the notification message you have to press the settings button to go to the notification layout. By pressing the message it will take you to the interface of nearest construction site on your path. Home button will take you to the homepage of the app. You can see the available construction on the homepage that have been fetched from firebase realtime database. To get detail information about any site, you need to click any of the site on the list of your interest. You can also add new site that is not included by BuildBuzz authority. You can add name of the site, location, tentative deadline, whether the road is closed or not, also what types of construction this is. Upoloading or taking photo is also included in this app. Basically, the idea is that buildbuzz authoirty will verify the newly added information and then approve. You can also explore the sites in your local area by clicking the map button.
 
 #Figma Prototype video:
 
